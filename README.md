@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+Kameron Grays
 
-# Your Github username
+grayskam
